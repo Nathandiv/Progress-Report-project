@@ -63,15 +63,27 @@ body {
 
 .avBtn {
     padding-top: 40px;
-    width: 200px;
+    width: 130px;
     border-color: black;
     padding-top: 40px;
     cursor: pointer;
-    margin-left: 100px;
+    margin-left: 50px;
     border: bold;
     font-family:Arial, sans-serif;
 
 
+}
+
+.clearB {
+
+    padding-top: 40px;
+    width: 100px;
+    border-color: black;
+    padding-top: 40px;
+    cursor: pointer;
+    margin-left: 10px;
+    border: bold;
+    font-family:Arial, sans-serif;
 }
 
 .input {
@@ -87,4 +99,13 @@ body {
 
 .h1 {
     padding-top: 15px;
+    text-align: center;
+    width: 300px;
+    font-size: 20px;
+    font-family:Arial, sans-serif;
+
+}
+
+.buttons {
+    display: flex;
 }
