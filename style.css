@@ -23,3 +23,32 @@
     font-weight: 600;
     font-size: 30px;
 }
+
+.mathdiv {
+   
+    padding-top: 35px;
+}
+.sciencediv {
+        padding-top: 10px;
+
+}
+
+.theorydiv {
+    padding-top: 10px;
+
+}
+
+.Indudiv {
+    padding-top: 10px;
+
+}
+
+.Fundediv {
+    padding-top: 10px;
+
+}
+
+.Pracdiv {
+    padding-top: 10px;
+
+}
