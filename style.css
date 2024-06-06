@@ -1,6 +1,10 @@
+body {
+    background-color: antiquewhite;
+}
+
 .divform {
     box-shadow: 0 0 3px 0 black;
-    background: rgba(128, 128, 128, 0.787);
+    background: rgba(128, 128, 128, 0.671);
     width: 450px;
     height: 600px;
     margin-left: 480px;
@@ -74,8 +78,13 @@
     width: 300px;
     height: 25px;
     border-color: black;
+    border-radius: px;
     padding: 3px;
     cursor: pointer;
     font-family:Arial, sans-serif;
 
+}
+
+.h1 {
+    padding-top: 15px;
 }
