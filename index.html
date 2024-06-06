@@ -10,7 +10,7 @@
   <body>
     <div class="head">Average Progress</div>
     <div class="divform">
-      <form class="form-1">
+      <div class="form-1">
         <div class="mathdiv">
           <label for="Results" class="lmath">Math Results</label><br />
           <input type="number" class="input"  id="input1" placeholder="Enter Student Mark" />
@@ -46,13 +46,17 @@
           </div>
 
           <div class="avBtn">
-            <button class="average" id="aver">
+            <button class="average" id="aver" onclick="avg()">
                 Git Average Total
             </button>
           </div>
 
+
+          <div class="h1" id="display"></div>
+        
+
           <script src="main.js"></script>
-      </form>
+        </div>
     </div>
   </body>
 </html>
