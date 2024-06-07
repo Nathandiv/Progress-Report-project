@@ -21,7 +21,7 @@ function avg() {
 
 function clearfn() {
 
-    const mey =0;
+
 
     document.getElementById('input1').value = '';
     document.getElementById('input2').value = '';
@@ -29,5 +29,6 @@ function clearfn() {
     document.getElementById('input4').value = '';
     document.getElementById('input5').value = '';
     document.getElementById('input6').value = '';
+    document.getElementById("display").innerHTML = '';
 
 }
