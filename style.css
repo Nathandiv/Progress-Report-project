@@ -109,3 +109,29 @@ body {
 .buttons {
     display: flex;
 }
+
+.p1 {
+    font-size: 15px;
+  
+}
+
+.footimg {
+    width: 150px;
+    height: 15px;
+   
+}
+
+.footerdiv {
+    display: flex;
+    align-items: center;
+    margin-left: 110px;
+    margin-top: 50px;
+}
+
+.footer {
+    display: flex;
+    
+}
+.pc {
+    margin-left: -62px;
+}
