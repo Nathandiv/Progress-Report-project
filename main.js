@@ -11,7 +11,10 @@ function avg() {
 
   if (averageM >= 65) {
     show.innerHTML= `Your Average is   ${averageM}  You have Passed !`;
-  } else {
+  }else if(averageM == 0){
+    show.innerHTML = `Enter your Marks!!!`;
+  }
+  else {
     show.innerHTML = `Your Average is   ${averageM}  You have Failed !`;
   }
 }
