@@ -15,7 +15,7 @@ function avg() {
     show.innerHTML = `Enter your Marks!!!`;
   }
   else {
-    show.innerHTML = `Your Average is   ${averageM}  You have Failed !`;
+    show.innerHTML = `Your Average is   ${(averageM.toFixed(2))}  You have Failed !`;
   }
 }
 
