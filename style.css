@@ -124,8 +124,8 @@ body {
 .footerdiv {
     display: flex;
     align-items: center;
-    margin-left: 110px;
-    margin-top: 50px;
+    margin-left: 100px;
+    margin-top: 30px;
 }
 
 .footer {
