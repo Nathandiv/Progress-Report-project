@@ -22,7 +22,7 @@ body {
 
 .head {
     text-align: center;
-    margin-bottom: 1%;
+    margin-bottom: 15px;
     font-weight: 600;
     font-size: 30px;
     font-family:Arial, sans-serif;
@@ -140,15 +140,34 @@ body {
 
     .divform{
         width: 350px;
-        height: 40rem;
+        height:580px;
+        font-size: 15px;
     }
 
     .input {
 
         width: 220px;
+        height: 23px;
     }
    
-    
+    .buttons {
+        margin-left: -30px;
+    }
+
+    .footerdiv {
+        margin-left: 65px;
+        margin-top: 40px;
+    }
+
+    .h1 {
+        font-size: 16px;
+        margin-left: -28px;
+    }
+
+    .head {
+        font-size: 20px;
+        margin-left: -15px;
+    }
     
 
 }
